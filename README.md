@@ -22,7 +22,7 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Contact
-For any further queries or discussions, please contact your-email@example.com.
+For any further queries or discussions, please contact smithgr1@g.cofc.edu
 
 Acknowledgments
 Thanks to the Canadian Institute of Cybersecurity for providing the dataset.
